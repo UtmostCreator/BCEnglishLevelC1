@@ -1,0 +1,1 @@
+Health and well being are hot topics in contemporary society. Among other topics, in this theme we explore medical research, the connection between mind and body, workaholism and complementary medicine.

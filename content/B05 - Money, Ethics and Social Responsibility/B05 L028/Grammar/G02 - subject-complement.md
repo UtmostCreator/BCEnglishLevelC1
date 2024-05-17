@@ -1,0 +1,3 @@
+> Your only option is to .... My main recommendation is to ....
+
+These sentences use a grammatical structure known as a "subject-complement" construction, where the subject ("Your only option," "My main recommendation") is linked to a complement by the verb "is" (a form of the verb "to be"). The complement in these instances is an infinitive phrase ("to ..."), which serves to describe or define the subject further. This structure is commonly used to give advice or express opinions.

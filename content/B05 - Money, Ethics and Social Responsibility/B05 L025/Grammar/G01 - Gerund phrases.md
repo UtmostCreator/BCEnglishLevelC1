@@ -1,0 +1,11 @@
+
+1. **Worth considering:** "Moving to a new city is worth considering."
+2. **Feel like doing:** "I don't feel like going out tonight."
+3. **Have trouble doing:** "He has trouble focusing on his studies."
+4. **Spend time doing:** "She spends a lot of time reading."
+5. **Look forward to doing:** "We look forward to meeting you."
+6. **Can't stand doing:** "I can't stand waiting in long lines."
+7. **Avoid doing:** "Avoid mentioning the accident; he's still very sensitive about it."
+8. **Finish doing:** "He finished preparing his presentation last night."
+9. **Keep doing:** "Keep trying, and eventually, you'll succeed."
+10. **Be busy doing:** "She was busy packing her bags for the trip."

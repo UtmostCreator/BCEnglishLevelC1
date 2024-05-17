@@ -1,0 +1,4 @@
+- your exp
+- why you want to work
+- why you like the company
+- why should they hire you

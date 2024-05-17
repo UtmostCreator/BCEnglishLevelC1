@@ -1,0 +1,1 @@
+A marginalized person is someone who is excluded, disadvantaged, or relegated to the fringes of society due to various factors such as race, ethnicity, gender, sexual orientation, disability, socioeconomic status, or other characteristics.
