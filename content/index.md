@@ -18,3 +18,4 @@
 13. [[B14 - Writing for impact]]
 14. [[B15 - Winning presentations]]
 15. [[B16 - Masterful workplace writing]]
+16. [[B17 - Conflict Handling Skills]]

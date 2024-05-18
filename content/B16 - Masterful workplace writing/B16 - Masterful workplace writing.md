@@ -11,6 +11,6 @@ Do you already have a good grasp of the fundamentals of business writing? Are yo
 6. [[B16 L096 - Messages for every occasion]]
 
 
-| Previous                        | Next |
-| ------------------------------- | ---- |
-| [[B15 - Winning presentations]] | -    |
+| Previous                        | Next                               |
+| ------------------------------- | ---------------------------------- |
+| [[B15 - Winning presentations]] | [[B17 - Conflict Handling Skills]] |
