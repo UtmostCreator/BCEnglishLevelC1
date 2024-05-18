@@ -1,0 +1,1 @@
+a "diversion" sign typically indicates a temporary change in the normal route or direction of traffic. It is often used when there is road construction, an accident, or any other situation that requires traffic to be rerouted or redirected away from a specific area.
